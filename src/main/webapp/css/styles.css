@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+
+#carouselImg img {
+	width: 100%;
+	height: 579px;
+}
+
+#carouselImg {
+	margin-top: 5.8%;
+}
+
+#bgImgHeader {
+	margin-top: 5.8%;
+	background-image: url("../images/bgMenu.png");
+	background-size: 100% 100%;
+	width: 100%;
+	height: 579px;
+}
+
+#bgImgRegistro {
+	margin-top: 5.8%;
+	background-image: url("../images/bgRegistro.jpg");
+	background-size: 100% 110%;
+	width: 100%;
+	height: 850px;
+}
+
+.transparentSlide {
+	background: rgba(255, 255, 255, 0.65);
+	width: 60%;
+	margin: auto;
+	margin-bottom: 20%;
+}
+
+.transparentFoot {
+	background: rgba(255, 255, 255, 0.65);
+}
+
+.footerWeb {
+	background-image: url("../images/bgFooter.jpg");
+	background-size: 100% 90%;
+}
